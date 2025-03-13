@@ -1,0 +1,451 @@
+[
+    {
+      "id": 1,
+      "nombre": "Ana Martínez",
+      "edad": 32,
+      "genero": "F",
+      "tSangre": "O+",
+      "alergias": ["Penicilina"],
+      "cMedicas": ["Consulta de neurología 2024-01-15", "Seguimiento de epilepsia 2024-02-10"]
+    },
+    {
+      "id": 2,
+      "nombre": "Carlos Gómez",
+      "edad": 45,
+      "genero": "M",
+      "tSangre": "A-",
+      "alergias": [],
+      "cMedicas": ["Electroencefalograma 2023-12-20", "Evaluación post-crisis 2024-01-25"]
+    },
+    {
+      "id": 3,
+      "nombre": "Lucía Fernández",
+      "edad": 28,
+      "genero": "F",
+      "tSangre": "B+",
+      "alergias": ["Ibuprofeno"],
+      "cMedicas": ["Consulta inicial 2023-11-10", "Resonancia magnética 2024-01-05"]
+    },
+    {
+      "id": 4,
+      "nombre": "Javier Ruiz",
+      "edad": 37,
+      "genero": "M",
+      "tSangre": "AB+",
+      "alergias": ["Polen"],
+      "cMedicas": ["Evaluación neurológica 2024-02-20"]
+    },
+    {
+      "id": 5,
+      "nombre": "María López",
+      "edad": 50,
+      "genero": "F",
+      "tSangre": "O-",
+      "alergias": [],
+      "cMedicas": ["Control de medicación 2024-01-12", "Seguimiento anual 2024-03-01"]
+    },
+    {
+      "id": 6,
+      "nombre": "Pedro Sánchez",
+      "edad": 41,
+      "genero": "M",
+      "tSangre": "A+",
+      "alergias": ["Latex"],
+      "cMedicas": ["Consulta de rutina 2023-12-18"]
+    },
+    {
+      "id": 7,
+      "nombre": "Sofía Ramírez",
+      "edad": 29,
+      "genero": "F",
+      "tSangre": "B-",
+      "alergias": ["Mariscos"],
+      "cMedicas": ["Diagnóstico inicial 2024-01-07", "Revisión post-tratamiento 2024-02-14"]
+    },
+    {
+      "id": 8,
+      "nombre": "Diego Morales",
+      "edad": 33,
+      "genero": "M",
+      "tSangre": "O+",
+      "alergias": [],
+      "cMedicas": ["Consulta especializada 2024-02-01"]
+    },
+    {
+      "id": 9,
+      "nombre": "Elena Torres",
+      "edad": 47,
+      "genero": "F",
+      "tSangre": "AB-",
+      "alergias": ["Sulfas"],
+      "cMedicas": ["Evaluación neurológica 2023-11-30", "Control trimestral 2024-03-05"]
+    },
+    {
+      "id": 10,
+      "nombre": "Andrés Herrera",
+      "edad": 36,
+      "genero": "M",
+      "tSangre": "A+",
+      "alergias": ["Frutos secos"],
+      "cMedicas": ["Consulta de epilepsia 2024-02-22"]
+    },
+  {
+      "id": 11,
+      "nombre": "Isabel Méndez",
+      "edad": 40,
+      "genero": "F",
+      "tSangre": "B+",
+      "alergias": ["Aspirina"],
+      "cMedicas": ["Control de crisis 2024-01-18"]
+    },
+    {
+      "id": 12,
+      "nombre": "Luis Castro",
+      "edad": 35,
+      "genero": "M",
+      "tSangre": "O-",
+      "alergias": [],
+      "cMedicas": ["Electroencefalograma 2024-02-10"]
+    },
+    {
+      "id": 13,
+      "nombre": "Paula Vázquez",
+      "edad": 31,
+      "genero": "F",
+      "tSangre": "A+",
+      "alergias": ["Penicilina"],
+      "cMedicas": ["Evaluación inicial 2023-10-22"]
+    },
+    {
+      "id": 14,
+      "nombre": "Ricardo Molina",
+      "edad": 42,
+      "genero": "M",
+      "tSangre": "AB+",
+      "alergias": ["Polen"],
+      "cMedicas": ["Seguimiento neurológico 2024-03-08"]
+    },
+    {
+      "id": 15,
+      "nombre": "Clara Jiménez",
+      "edad": 38,
+      "genero": "F",
+      "tSangre": "O+",
+      "alergias": ["Mariscos"],
+      "cMedicas": ["Control de tratamiento 2024-02-25"]
+    },
+    {
+      "id": 16,
+      "nombre": "Miguel Paredes",
+      "edad": 46,
+      "genero": "M",
+      "tSangre": "B-",
+      "alergias": [],
+      "cMedicas": ["Consulta de control 2024-01-30"]
+    },
+    {
+      "id": 17,
+      "nombre": "Valeria Ortega",
+      "edad": 27,
+      "genero": "F",
+      "tSangre": "A-",
+      "alergias": ["Frutos secos"],
+      "cMedicas": ["Revisión médica 2024-02-12"]
+    },
+    {
+      "id": 18,
+      "nombre": "Daniel Ríos",
+      "edad": 34,
+      "genero": "M",
+      "tSangre": "O+",
+      "alergias": ["Sulfas"],
+      "cMedicas": ["Seguimiento de crisis 2024-03-01"]
+    },
+    {
+      "id": 19,
+      "nombre": "Carolina Álvarez",
+      "edad": 30,
+      "genero": "F",
+      "tSangre": "B+",
+      "alergias": [],
+      "cMedicas": ["Consulta de epilepsia 2024-02-28"]
+    },
+    {
+      "id": 20,
+      "nombre": "José Medina",
+      "edad": 43,
+      "genero": "M",
+      "tSangre": "A+",
+      "alergias": ["Latex"],
+      "cMedicas": ["Evaluación integral 2024-01-20"]
+    },
+  {
+      "id": 21,
+      "nombre": "Ana Martínez",
+      "edad": 34,
+      "genero": "F",
+      "tSangre": "O+",
+      "alergias": ["Penicilina"],
+      "cMedicas": ["Consulta por crisis parciales", "EEG anormal"]
+    },
+    {
+      "id": 22,
+      "nombre": "Carlos Rodríguez",
+      "edad": 45,
+      "genero": "M",
+      "tSangre": "A-",
+      "alergias": ["Ninguna"],
+      "cMedicas": ["Historial de epilepsia desde la infancia", "Tratamiento con levetiracetam"]
+    },
+    {
+      "id": 23,
+      "nombre": "Lucía Gómez",
+      "edad": 29,
+      "genero": "F",
+      "tSangre": "B+",
+      "alergias": ["Sulfas"],
+      "cMedicas": ["Convulsiones tónico-clónicas", "Seguimiento cada 6 meses"]
+    },
+    {
+      "id": 24,
+      "nombre": "Pedro Sánchez",
+      "edad": 38,
+      "genero": "M",
+      "tSangre": "AB+",
+      "alergias": [],
+      "cMedicas": ["Consulta por ausencias", "Prueba de resonancia magnética"]
+    },
+    {
+      "id": 25,
+      "nombre": "María López",
+      "edad": 50,
+      "genero": "F",
+      "tSangre": "O-",
+      "alergias": ["Mariscos"],
+      "cMedicas": ["Epilepsia focal", "Revisión de tratamiento"]
+    },
+    {
+      "id": 26,
+      "nombre": "Javier Ruiz",
+      "edad": 33,
+      "genero": "M",
+      "tSangre": "A+",
+      "alergias": ["Ninguna"],
+      "cMedicas": ["Crisis nocturnas", "Monitorización con video-EEG"]
+    },
+    {
+      "id": 27,
+      "nombre": "Isabel Fernández",
+      "edad": 41,
+      "genero": "F",
+      "tSangre": "B-",
+      "alergias": ["Látex"],
+      "cMedicas": ["Epilepsia refractaria", "Valoración para cirugía"]
+    },
+    {
+      "id": 28,
+      "nombre": "David Morales",
+      "edad": 36,
+      "genero": "M",
+      "tSangre": "O+",
+      "alergias": ["Polen"],
+      "cMedicas": ["Epilepsia mioclónica juvenil", "Ajuste de medicación"]
+    },
+    {
+      "id": 29,
+      "nombre": "Sofía Castillo",
+      "edad": 27,
+      "genero": "F",
+      "tSangre": "AB-",
+      "alergias": ["Ninguna"],
+      "cMedicas": ["Primera crisis epiléptica", "Electroencefalograma normal"]
+    },
+    {
+      "id": 30,
+      "nombre": "Andrés Peña",
+      "edad": 48,
+      "genero": "M",
+      "tSangre": "A-",
+      "alergias": ["Antibióticos"],
+      "cMedicas": ["Epilepsia secundaria a trauma", "Seguimiento anual"]
+    },
+  {
+      "id": 31,
+      "nombre": "Clara Mendoza",
+      "edad": 32,
+      "genero": "F",
+      "tSangre": "O+",
+      "alergias": ["Polen"],
+      "cMedicas": ["Crisis focales", "Tratamiento con lamotrigina"]
+    },
+    {
+      "id": 32,
+      "nombre": "Luis Torres",
+      "edad": 44,
+      "genero": "M",
+      "tSangre": "A+",
+      "alergias": ["Ninguna"],
+      "cMedicas": ["Epilepsia generalizada", "Ajuste de dosis"]
+    },
+    {
+      "id": 33,
+      "nombre": "Paula Ríos",
+      "edad": 37,
+      "genero": "F",
+      "tSangre": "B-",
+      "alergias": ["Sulfas"],
+      "cMedicas": ["Epilepsia mioclónica", "Seguimiento anual"]
+    },
+    {
+      "id": 34,
+      "nombre": "Jorge Herrera",
+      "edad": 50,
+      "genero": "M",
+      "tSangre": "O-",
+      "alergias": [],
+      "cMedicas": ["Epilepsia idiopática", "Monitorización EEG"]
+    },
+    {
+      "id": 35,
+      "nombre": "Carmen Pérez",
+      "edad": 29,
+      "genero": "F",
+      "tSangre": "AB+",
+      "alergias": ["Penicilina"],
+      "cMedicas": ["Crisis de ausencia", "Valoración neurológica"]
+    },
+    {
+      "id": 36,
+      "nombre": "Diego Castro",
+      "edad": 41,
+      "genero": "M",
+      "tSangre": "A-",
+      "alergias": ["Mariscos"],
+      "cMedicas": ["Epilepsia refractaria", "Evaluación para cirugía"]
+    },
+    {
+      "id": 37,
+      "nombre": "Lucía Ramírez",
+      "edad": 35,
+      "genero": "F",
+      "tSangre": "O+",
+      "alergias": [],
+      "cMedicas": ["Epilepsia parcial", "Ajuste de tratamiento"]
+    },
+    {
+      "id": 38,
+      "nombre": "Alejandro Silva",
+      "edad": 47,
+      "genero": "M",
+      "tSangre": "B+",
+      "alergias": ["Aspirina"],
+      "cMedicas": ["Crisis nocturnas", "Control trimestral"]
+    },
+    {
+      "id": 39,
+      "nombre": "Valentina López",
+      "edad": 30,
+      "genero": "F",
+      "tSangre": "AB-",
+      "alergias": ["Látex"],
+      "cMedicas": ["Epilepsia focal", "Revisión de tratamiento"]
+    },
+    {
+      "id": 40,
+      "nombre": "Fernando Ortega",
+      "edad": 43,
+      "genero": "M",
+      "tSangre": "O+",
+      "alergias": ["Ninguna"],
+      "cMedicas": ["Epilepsia secundaria", "Seguimiento semestral"]
+    },
+   {
+      "id": 41,
+      "nombre": "Raúl Vargas",
+      "edad": 42,
+      "genero": "M",
+      "tSangre": "B+",
+      "alergias": ["Penicilina"],
+      "cMedicas": ["Epilepsia focal", "Monitorización continua"]
+    },
+    {
+      "id": 42,
+      "nombre": "Elena García",
+      "edad": 31,
+      "genero": "F",
+      "tSangre": "A+",
+      "alergias": ["Mariscos"],
+      "cMedicas": ["Epilepsia mioclónica", "Ajuste de tratamiento"]
+    },
+    {
+      "id": 43,
+      "nombre": "Roberto Jiménez",
+      "edad": 39,
+      "genero": "M",
+      "tSangre": "O-",
+      "alergias": [],
+      "cMedicas": ["Crisis parciales", "Evaluación neuropsicológica"]
+    },
+    {
+      "id": 44,
+      "nombre": "Marta Alonso",
+      "edad": 46,
+      "genero": "F",
+      "tSangre": "AB+",
+      "alergias": ["Ninguna"],
+      "cMedicas": ["Epilepsia refractaria", "Valoración para cirugía"]
+    },
+    {
+      "id": 45,
+      "nombre": "Hugo Serrano",
+      "edad": 28,
+      "genero": "M",
+      "tSangre": "A-",
+      "alergias": ["Aspirina"],
+      "cMedicas": ["Epilepsia generalizada", "Revisión trimestral"]
+    },
+    {
+      "id": 46,
+      "nombre": "Nuria Gil",
+      "edad": 37,
+      "genero": "F",
+      "tSangre": "O+",
+      "alergias": ["Sulfas"],
+      "cMedicas": ["Epilepsia idiopática", "Ajuste de medicación"]
+    },
+    {
+      "id": 47,
+      "nombre": "Iván Cruz",
+      "edad": 34,
+      "genero": "M",
+      "tSangre": "B-",
+      "alergias": ["Ninguna"],
+      "cMedicas": ["Crisis de ausencia", "Monitorización EEG"]
+    },
+    {
+      "id": 48,
+      "nombre": "Laura Méndez",
+      "edad": 40,
+      "genero": "F",
+      "tSangre": "A+",
+      "alergias": ["Látex"],
+      "cMedicas": ["Epilepsia focal", "Seguimiento anual"]
+    },
+    {
+      "id": 49,
+      "nombre": "Óscar Paredes",
+      "edad": 50,
+      "genero": "M",
+      "tSangre": "O+",
+      "alergias": ["Antibióticos"],
+      "cMedicas": ["Epilepsia secundaria", "Evaluación prequirúrgica"]
+    },
+    {
+      "id": 50,
+      "nombre": "Silvia Rojas",
+      "edad": 29,
+      "genero": "F",
+      "tSangre": "AB-",
+      "alergias": [],
+      "cMedicas": ["Crisis nocturnas", "Ajuste de dosis"]
+    }]
