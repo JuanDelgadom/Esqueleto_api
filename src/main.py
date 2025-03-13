@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from src.controller.controller import router
+from controller.controller import router
 
 app = FastAPI(
     title="API de Historias Clínicas",

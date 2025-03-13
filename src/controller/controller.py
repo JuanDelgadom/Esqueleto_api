@@ -1,7 +1,7 @@
 import json
 import os
 from fastapi import APIRouter, HTTPException
-from src.models.historiaClinica import HistoriaClinica
+from models.historiaClinica import HistoriaClinica
 
 router = APIRouter()
 
