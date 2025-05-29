@@ -6,6 +6,7 @@ from datetime import date
 class HistoriaClinica(BaseModel):
     id: int
     nombre: str
+    numeroDocumento: str
     edad: int
     genero: str
     tSangre: str
